@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\wwwroot\\css\\todoindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\wwwroot\\css\\todoindex.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\wwwroot\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\wwwroot\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\todo-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\todo-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\infrastructure\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\infrastructure\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\infrastructure\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\infrastructure\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\core\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\core\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\core\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\core\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\core\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\core\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|c:\\users\\jonas\\desktop\\todoonion\\todo-list\\todo-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBEC78-99AE-4049-8F2D-B136E5B2D5DB}|Todo-List\\Todo-List.csproj|solutionrelative:todo-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "todoindex.css",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\wwwroot\\css\\todoindex.css",
+              "RelativeDocumentMoniker": "Todo-List\\wwwroot\\css\\todoindex.css",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\wwwroot\\css\\todoindex.css",
+              "RelativeToolTip": "Todo-List\\wwwroot\\css\\todoindex.css",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-19T11:49:35.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.css",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\wwwroot\\css\\Create.css",
+              "RelativeDocumentMoniker": "Todo-List\\wwwroot\\css\\Create.css",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\wwwroot\\css\\Create.css",
+              "RelativeToolTip": "Todo-List\\wwwroot\\css\\Create.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-19T11:49:22.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo-List.csproj",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Todo-List.csproj",
+              "RelativeDocumentMoniker": "Todo-List\\Todo-List.csproj",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Todo-List.csproj",
+              "RelativeToolTip": "Todo-List\\Todo-List.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T09:26:12.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Infrastructure\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Todo-List\\Infrastructure\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Infrastructure\\TaskRepository.cs",
+              "RelativeToolTip": "Todo-List\\Infrastructure\\TaskRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:01:18.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Core\\TaskService.cs",
+              "RelativeDocumentMoniker": "Todo-List\\Core\\TaskService.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Core\\TaskService.cs",
+              "RelativeToolTip": "Todo-List\\Core\\TaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:59:17.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Core\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Todo-List\\Core\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Core\\ITaskRepository.cs",
+              "RelativeToolTip": "Todo-List\\Core\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:59:00.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\appsettings.json",
+              "RelativeDocumentMoniker": "Todo-List\\appsettings.json",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\appsettings.json",
+              "RelativeToolTip": "Todo-List\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T08:53:17.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Infrastructure\\TaskDbcontext.cs",
+              "RelativeDocumentMoniker": "Todo-List\\Infrastructure\\TaskDbcontext.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Infrastructure\\TaskDbcontext.cs",
+              "RelativeToolTip": "Todo-List\\Infrastructure\\TaskDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:52:04.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Core\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Todo-List\\Core\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Core\\TaskItem.cs",
+              "RelativeToolTip": "Todo-List\\Core\\TaskItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:52:09.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Todo-List\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Todo-List\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwEEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:51:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "Todo-List\\Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "Todo-List\\Views\\Task\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T08:53:11.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Todo-List\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Todo-List\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:27:07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Views\\Task\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Todo-List\\Views\\Task\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Views\\Task\\Edit.cshtml",
+              "RelativeToolTip": "Todo-List\\Views\\Task\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T08:53:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Views\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "Todo-List\\Views\\Task\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Views\\Task\\Create.cshtml",
+              "RelativeToolTip": "Todo-List\\Views\\Task\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T08:52:51.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Program.cs",
+              "RelativeDocumentMoniker": "Todo-List\\Program.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\TodoOnion\\Todo-List\\Todo-List\\Program.cs",
+              "RelativeToolTip": "Todo-List\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:53:28.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
